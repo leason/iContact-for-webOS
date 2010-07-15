@@ -3,5 +3,7 @@ function StageAssistant() {
 }
 
 StageAssistant.prototype.setup = function() {
+	icontact.init();
+	
 	this.controller.pushScene("first");
 };

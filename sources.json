@@ -1,5 +1,8 @@
 [
     {"source": "app/assistants/stage-assistant.js"},
+    {"source": "app/models/request.js"},
+    {"source": "app/models/account.js"},
+    {"source": "app/icontact.js"},
     {
         "scenes": "contacts",
         "source": "app/assistants/contacts-assistant.js"
